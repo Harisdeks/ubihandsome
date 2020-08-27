@@ -52,8 +52,8 @@ if CONFIG_CHECK:
     quit(1)
 
 # Telegram App KEY and HASH
-API_KEY = os.environ.get("API_KEY", "123456")
-API_HASH = os.environ.get("API_HASH","32CharApiHash")
+API_KEY = os.environ.get("API_KEY", "1765281")
+API_HASH = os.environ.get("API_HASH","f8add164913e3a168da3e30dc8df275c")
 
 # Photo Chat - Get this value from http://antiddos.systems
 API_TOKEN = os.environ.get("API_TOKEN", None)
